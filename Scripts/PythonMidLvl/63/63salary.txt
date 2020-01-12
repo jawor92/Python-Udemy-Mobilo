@@ -1,0 +1,12 @@
+Name of employer Kowalski
+Salary: 2000
+isbonus = True
+Name of employer Nowak
+Salary: 5000
+isbonus = False
+Name of employer: Kowalski
+Salary: 2000
+isbonus = True
+Name of employer: Nowak
+Salary: 5000
+isbonus = False

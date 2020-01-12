@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python_Udemy_Mobilo", "Python_Udemy_Mobilo.pyproj", "{114EFA87-74C1-4DFB-8329-BD9736759DB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{114EFA87-74C1-4DFB-8329-BD9736759DB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{114EFA87-74C1-4DFB-8329-BD9736759DB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C6A9D8E-7D2B-4850-80A4-E6E3640428B6}
+	EndGlobalSection
+EndGlobal

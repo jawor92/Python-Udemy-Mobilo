@@ -1,0 +1,16 @@
+Name of employer Golda
+Salary: Starszy sprzedawca
+Name of employer Jaworski
+Salary: Szef
+Name of employer Golda
+Salary: Starszy sprzedawca
+
+Name of employer Jaworski
+Salary: Szef
+
+Name of employer: Golda
+Salary: Starszy sprzedawca
+
+Name of employer: Jaworski
+Salary: Szef
+
